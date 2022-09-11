@@ -43,5 +43,5 @@ switch(categoriaDescuento){
 
 
 
-    
+    // estoy agregando texto
 }
